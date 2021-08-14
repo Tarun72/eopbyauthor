@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d439b6f-aeff-4a13-b293-227cc5b19e9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ABSqrt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/AbsentValueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/AddingCredits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/AdvanceByOffsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/AlternatingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ApplyPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Arbitrage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BinomialCoefficients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BstFromPreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BstFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BstMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BstNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BstToSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BuyAndSellStockKTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/BuyAndSellStockTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CalendarRendering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ClosestIntSameWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CollatzChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ConvertBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CopyPostingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CountBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/CountInversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DeadlockDetection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DefectiveJugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DeleteFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DeleteKthLastFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DeleteNodeFromList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DescendantAndAncestorInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DirectoryPathNormalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DoListsOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DoTerminatedListsOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DoublyListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DrawingSkyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/DutchNationalFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ElementAppearingOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EnumerateBalancedParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EnumeratePalindromicDecompositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EnumerateTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EuclideanGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EvaluateRpn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EvenOddArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/EvenOddListMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/FindSalaryThreshold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/FirstMissingPositiveEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Gcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/GraphClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/GrayCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/GroupEqualEntries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/HIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/HuffmanCoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/InsertInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/InsertOperatorsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntAsArrayIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntAsArrayMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntAsListAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntersectSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntervalAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IntervalsUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsAnonymousLetterConstructible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsArrayDominated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsCircuitWirable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsListCyclic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsListPalindromic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsNumberPalindromic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsStringDecomposableIntoWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsStringInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsStringPalindromic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsStringPalindromicPunctuation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsStringPermutableToPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsTreeABst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsTreeBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsTreeSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsValidParenthesization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KClosestStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KLargestInHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KLargestValuesInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KthLargestElementInLongArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KthLargestElementInTwoSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KthLargestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/KthNodeInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LargestRectangleUnderSkyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LeftRightJustifyText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LevenshteinDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LineThroughMostPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ListCyclicRightShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestContainedInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestIncreasingSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestNondecreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestSubarrayWithDistinctValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestSubarrayWithSumConstraint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LongestSubstringWithMatchingParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LookAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LowestCommonAncestorCloseAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LowestCommonAncestorInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LowestCommonAncestorWithParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/LruCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MakingChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MatrixConnectedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MatrixEnclosedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxOfSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxProductAllButOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxSafeHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxSquareSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxSubmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxSumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxTeamsInPhotograph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxTrappedWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaxWaterTrappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MaximumSubarrayInCircularArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MinimumDistance3SortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MinimumPointsCoveringIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MinimumWaitingTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/MinimumWeightPathInATriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NearestRepeatedEntries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NonuniformRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NumberOfScoreCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/NumberOfTraversalsStaircase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/OfflineSampling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/OnlineMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/OnlineSampling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PascalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PhoneNumberMnemonic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PickingUpCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PivotList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PostingListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PowerSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PowerXY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PrettyPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PrimeSieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PrimitiveDivide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/PrimitiveMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/QueueFromStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/QueueWithMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RandomPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RandomSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RangeLookupInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RealSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RectangleIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RefuelingSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RemoveDuplicatesFromSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ReplaceAndRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ReverseDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ReverseSublist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RoadNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RookAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/RunLengthCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchEntryEqualToIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchFirstGreaterValueInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchFirstKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchForMinMaxInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchForMissingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchFrequentItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchInBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchRowColSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchShiftedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SearchUnknownLengthArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SmallestNonconstructibleValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SmallestSubarrayCoveringAllValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SmallestSubarrayCoveringSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SnakeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortAlmostSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortIncreasingDecreasingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortedArrayRemoveDups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortedArraysMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortedListToBst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SortedListsMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SpiralOrdering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SpreadsheetEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/StackWithMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/StringDecompositionsIntoDictionaryWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/StringIntegerInterconversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/StringTransformability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SubstringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SuccessorInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SudokuSolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SumRootToLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SunsetView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/SwapBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TaskPairing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeConnectLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeExterior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeFromPreorderInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeFromPreorderWithNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeLevelOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeLike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreePostorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreePreorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeRightSibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TreeWithParentInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TwoSortedArraysMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/UniformRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ValidIpAddresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/ZipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/epi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/BinaryTreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/ConsoleColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/EpiProgramConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/EpiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/EpiTestComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/EpiTestExpectedType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/EpiUserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/GenericTestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/LexicographicalListComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/RandomSequenceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestFailure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TestUtilsConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TimedExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TimeoutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/TriBool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/console_color_32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/console_color_64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/Json.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/JsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/ParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/PrettyPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/WriterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/minimal_json/WritingBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/BinaryTreeTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/BooleanTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/CharacterTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/DoubleTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/FloatTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/IntegerTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LinkedListTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ListTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/LongTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SerializationTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/SetTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/ShortTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/StringTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/TraitsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/UserTypeTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi/test_framework/serialization_traits/VoidTrait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/epi_judge_java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1whYnkG8dGfbGM9tkfCf4fFKdgl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d439b6f-aeff-4a13-b293-227cc5b19e9f" name="Changes" comment="" />
+      <created>1628912457008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628912457008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
