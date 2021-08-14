@@ -107,6 +107,7 @@ public class NonuniformRandomNumber extends ElementsOfProgramming {
     public void initDetail() {
         pageNumber = 79;
         leetCodeUrl = "https://www.youtube.com/watch?v=lLQqPZFnCJw&t=571s";
+        solution = "https://www.youtube.com/watch?v=lLQqPZFnCJw&t=571s";
         questionNumber = 6.15F;
     }
 }
